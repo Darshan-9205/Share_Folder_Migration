@@ -1,0 +1,12 @@
+# AWS
+
+aws.access-key-id=YOUR_ACCESS_KEY
+aws.secret-access-key=YOUR_SECRET_KEY
+aws.region=ap-south-1
+aws.s3.bucket-name=YOUR_BUCKET
+
+# Azure
+
+azure.storage.account-name=YOUR_STORAGE_ACCOUNT
+azure.storage.account-key=YOUR_STORAGE_KEY
+azure.storage.container-name=YOUR_CONTAINER
